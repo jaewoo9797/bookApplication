@@ -1,1 +1,8 @@
-# bookApplication
+# 🏫 bookApplication
+
+## Intro
+
+학습 하면서 직접 구현해보는 1인 프로젝트입니다.
+
+책을 관리하는 애플리케이션을 만드는 것이 목적입니다.
+
