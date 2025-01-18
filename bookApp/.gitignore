@@ -37,3 +37,4 @@ out/
 .vscode/
 /개발일지/
 /src/main/resources/application-openapi.yaml
+src/main/resources/application.yml
